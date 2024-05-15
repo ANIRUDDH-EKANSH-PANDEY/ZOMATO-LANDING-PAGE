@@ -1,4 +1,5 @@
-## Hello
-## Welcome
-Edited in git
-## Setup created for our application
+# This is my zomato landing page clone
+
+## Done with first commit.
+
+## Set Up created here for our appln
